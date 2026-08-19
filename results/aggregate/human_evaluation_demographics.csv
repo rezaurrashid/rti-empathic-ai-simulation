@@ -1,0 +1,19 @@
+variable,category,n,percent
+Age group,25–34 years,92,52.8736
+Age group,18–24 years,26,14.9425
+Age group,35–44 years,22,12.6437
+Age group,55–64 years,18,10.3448
+Age group,45–54 years,16,9.1954
+Gender,Female,138,79.3103
+Gender,Male,36,20.6897
+Years of experience,6–10 years,54,31.0345
+Years of experience,11+ years,48,27.5862
+Years of experience,0–2 years,39,22.4138
+Years of experience,3–5 years,33,18.9655
+Professional role (response-level),Researcher,70,40.2299
+Professional role (response-level),Medical Student,28,16.0920
+Professional role (response-level),Nursing Student,24,13.7931
+Professional role (response-level),Oncologist,17,9.7701
+Professional role (response-level),Community Health Support Specialist,16,9.1954
+Professional role (response-level),Pre-Med Student,13,7.4713
+Professional role (response-level),Clinician,6,3.4483

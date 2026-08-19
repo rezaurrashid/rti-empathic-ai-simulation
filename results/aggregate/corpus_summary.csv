@@ -1,0 +1,13 @@
+metric,value
+Total conversations,300.0
+"Total turns per conversation, mean",29.726666666666667
+"Total turns per conversation, SD",1.1986428594751615
+"Patient turns per conversation, mean",14.863333333333333
+"Patient turns per conversation, SD",0.5993214297375807
+"Assistant turns per conversation, mean",14.863333333333333
+"Assistant turns per conversation, SD",0.5993214297375807
+"Problem mentions per conversation, mean",55.14666666666667
+"Problem mentions per conversation, SD",10.214676742743816
+"Problems per patient turn, mean",3.7244000000000006
+"Problems per patient turn, SD",0.6270608618106505
+Total problem mentions,16544.0

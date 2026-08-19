@@ -1,0 +1,46 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Local caches
+.cache/
+label_cache/
+recognition_cache*/
+*.jsonl
+
+# Generated outputs
+outputs/
+figures/
+tables/
+*.log
+
+# Local or restricted study data
+data/local/
+data/raw/
+data/private/
+*.parquet
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archives
+*.zip
+
+# Common study-specific restricted artifacts
+synthetic_train_data.csv
+synthetic_data*.csv
+conv_*.docx
+*Responses*.csv
+*human_evaluation_responses*.csv

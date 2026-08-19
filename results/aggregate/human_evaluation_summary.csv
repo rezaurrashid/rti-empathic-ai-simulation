@@ -1,0 +1,18 @@
+domain,item,n,median,q1,q3,mean,sd,agree_percent,ci95_low,ci95_high
+AI Assistant Communication,Maintained consistent tone,174,6.0000,6.0000,7.0000,6.2644,0.9430,89.6552,6.1233,6.4055
+AI Assistant Communication,Recognized main problems,174,7.0000,6.0000,7.0000,6.3678,0.9138,91.3793,6.2311,6.5045
+AI Assistant Communication,Empathic and respectful tone,174,6.0000,6.0000,7.0000,6.2011,0.9794,82.7586,6.0546,6.3477
+AI Assistant Communication,Clear and easy to understand,174,6.0000,6.0000,7.0000,6.2759,0.8956,91.3793,6.1419,6.4099
+AI Assistant Communication,Practical and useful,174,6.0000,6.0000,7.0000,6.2529,0.9277,87.3563,6.1141,6.3917
+Persona Realism,Dialogue realistic,174,6.0000,5.0000,7.0000,5.6207,1.3873,68.3908,5.4131,5.8283
+Persona Realism,Natural emotional variation,174,6.0000,5.0000,7.0000,5.5977,1.3850,62.0690,5.3905,5.8049
+Persona Realism,Communication coherent,174,6.0000,6.0000,7.0000,5.9828,1.1703,76.4368,5.8076,6.1579
+Persona Realism,Concerns reflect oncology care,174,6.0000,6.0000,7.0000,6.1494,1.0593,83.9080,5.9909,6.3079
+Persona Realism,Useful for training,174,6.0000,5.0000,7.0000,5.8391,1.2200,69.5402,5.6565,6.0216
+Interaction Quality,Acknowledged emotions first,174,6.0000,6.0000,7.0000,6.2299,0.9819,85.6322,6.0830,6.3768
+Interaction Quality,Responded naturally,174,6.0000,5.0000,7.0000,5.8391,1.2105,71.8391,5.6580,6.0202
+Interaction Quality,Logical flow,174,6.0000,6.0000,7.0000,5.9138,1.1523,75.2874,5.7414,6.0862
+Clinical Appropriateness,Clinically appropriate guidance,114,6.0000,6.0000,7.0000,6.0614,1.0913,86.8421,5.8589,6.2639
+Clinical Appropriateness,Mirrored navigator-patient interaction,114,6.0000,5.0000,6.0000,5.6228,1.3129,70.1754,5.3792,5.8664
+Clinical Appropriateness,Enhances empathy training,114,6.0000,6.0000,7.0000,6.0965,1.3235,82.4561,5.8509,6.3421
+General Recommendation,Recommend for research/education,114,7.0000,6.0000,7.0000,6.1491,1.3319,79.8246,5.9020,6.3963

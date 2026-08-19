@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository and the associated manuscript when available."
+title: "Stress-Testing Empathic AI Navigation for Radiation Therapy Interruptions Using Synthetic Patient Dialogues"
+type: software
+version: 1.0.0
+date-released: 2026-08-19
+license: MIT
+authors:
+  - family-names: Rashid
+    given-names: Rezaur
+  - family-names: Kheirinejad
+    given-names: Saba
+  - family-names: Kheirkhah Rahimabad
+    given-names: Parnian
+  - family-names: Hashtarkhani
+    given-names: Soheil
+  - family-names: White
+    given-names: Brianna M.
+  - family-names: Kumsa
+    given-names: Fekede Asefa
+  - family-names: Zink
+    given-names: Janet A.
+  - family-names: Chinthala
+    given-names: Lokesh
+  - family-names: Brett
+    given-names: Christopher L.
+  - family-names: Davis
+    given-names: Robert L.
+  - family-names: Schwartz
+    given-names: David L.
+  - family-names: Shaban-Nejad
+    given-names: Arash
+keywords:
+  - large language models
+  - radiation oncology
+  - synthetic patients
+  - patient navigation
+  - clinical AI evaluation

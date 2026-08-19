@@ -1,0 +1,6 @@
+pipeline_step,model_default_in_code,api_endpoint,notes
+Persona generation,gpt-5,chat.completions,No temperature/top-p/seed passed in final study code path
+Patient dialogue agent,o3,chat.completions,No temperature/top-p/seed passed in final study code path
+Navigator dialogue agent,o3,chat.completions,No temperature/top-p/seed passed in final study code path
+Problem category + severity classification,gpt-5,responses,Batch size 5; no sampling parameters passed
+Recognition + handling assessment,gpt-5,responses,No sampling parameters passed

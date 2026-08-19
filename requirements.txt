@@ -1,0 +1,9 @@
+openai
+pandas
+numpy
+python-dotenv
+python-docx
+scipy
+torch
+sentence-transformers
+matplotlib
