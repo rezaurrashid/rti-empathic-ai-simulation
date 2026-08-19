@@ -266,8 +266,7 @@ or substitute for clinician or patient-navigator judgment.
 
 ## Citation
 
-Citation metadata are provided in `CITATION.cff`. After the GitHub repository is created, add its
-public repository URL to `CITATION.cff` using the `repository-code` field. A manuscript DOI can be
+Citation metadata are provided in `CITATION.cff`. A manuscript DOI would be
 added later when a final bibliographic record is available.
 
 ## License
